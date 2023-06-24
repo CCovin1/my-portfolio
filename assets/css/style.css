@@ -3,19 +3,21 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-color: crimson
+  background-color: rgb(150, 87, 87);
 }
 
-.header {
-  background-color: #ad2828;
+header {
+  background-color: rgb(177, 83, 83);
   padding: 10px;
+  text-align: center;
+  font-size: 24px;
 }
 
 nav ul {
   list-style-type: disc;
   margin: 0%;
   padding: 0%;
-  background-color: aqua;
+  background-color: rgb(131, 73, 73);
   float: right;
   display: flex;
 }
@@ -35,12 +37,17 @@ section {
   padding: 50px;
   text-align: center;
   list-style-type: none;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 #contact {
   float: right;
-  text-align: right;
+  text-align: left;
   list-style-type: none;
+  background-color: rgba(187, 116, 116, 0.699);
+  padding: 10px;
+  margin-right: 0%;
 }
 
 /* Responsive layout */
