@@ -12,7 +12,7 @@ Contact Details: The "Contact" section includes contact information such as emai
 Responsive Design: The website is designed to be responsive and adapt to different screen sizes, providing an optimal viewing experience on both desktop and mobile devices.
 
 ## Usage
-To use this portfolio website for Caleb Covin:
+To use this portfolio website for Caleb Covin: https://ccovin1.github.io/my-portfolio/
 ![Alt text](images/port.png)
 
 Clone this repository to your local machine or web server.
