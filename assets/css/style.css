@@ -2,21 +2,34 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-color: rgb(150, 87, 87);
+  background-color: rgb(150, 133, 133);
 }
 
 header {
-  background-color: rgb(177, 83, 83);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(165, 137, 137);
   padding: 10px;
   text-align: center;
   font-size: 24px;
+}
+
+nav {
+  position: fixed;
+  top: 40px;
+  left: 0;
+  width: 100%;
+  background-color: rgb(165, 137, 137);
+  padding: 10px;
 }
 
 nav ul {
   list-style-type: disc;
   margin: 0%;
   padding: 0%;
-  background-color: rgb(131, 73, 73);
+  background-color: rgb(165, 137, 137);
   float: right;
   display: flex;
 }
@@ -29,6 +42,10 @@ nav ul li a {
   text-decoration: none;
   color: #333;
   padding: 10px;
+}
+
+section#about p {
+  font-size: 200%;
 }
 
 section {
@@ -47,7 +64,7 @@ section {
   float: right;
   text-align: left;
   list-style-type: none;
-  background-color: rgba(187, 116, 116, 0.699);
+  background-color: rgb(165, 137, 137);
 }
 
 /* Responsive layout */
