@@ -10,8 +10,10 @@ About Me: The "About Me" section provides a brief introduction to Caleb Covin, i
 Work Showcase: The "Some of My Work" section displays a project with an image and a link to view more details about the project.
 Contact Details: The "Contact" section includes contact information such as email, phone number, and links to GitHub and Twitter profiles.
 Responsive Design: The website is designed to be responsive and adapt to different screen sizes, providing an optimal viewing experience on both desktop and mobile devices.
-Usage
+
+## Usage
 To use this portfolio website for Caleb Covin:
+![Alt text](images/port.png)
 
 Clone this repository to your local machine or web server.
 Customize the content in the HTML file to reflect Caleb Covin's information and projects.
